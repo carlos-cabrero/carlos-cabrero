@@ -22,9 +22,10 @@
 
 * :mailbox: Would you like to get in touch with me? [![Linkedin Badge](https://img.shields.io/badge/-Carlos-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-arz/)
 
+
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Languages ​​and tools :
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
@@ -34,6 +35,12 @@
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/MS%20Office-grey?style=for-the-badge&logoSize=auto" alt="msoffice"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/pandas-red?style=for-the-badge&logo=pandas&logoSize=auto" alt="pandas"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Numpy-aqua?style=for-the-badge&logo=numpy&logoColor=black&logoSize=auto" alt="numpy"/>
   </a>
 
 </div>
